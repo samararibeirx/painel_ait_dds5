@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import styles from 'LateralImagens.module.css';
+import styles from './LateralImagens.module.css';
 
 function LateralImagens() {
 const [imagens, setImagens] = useState([]);
